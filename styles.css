@@ -1,0 +1,34 @@
+ul{
+    width: 100%;
+}
+li{
+    text-decoration: none;
+    display: inline;
+    padding-right: 5%;
+    text-align: center;
+    color:#aaaaaa;
+}
+a:active{
+    color:#ffffff
+}
+a:link{
+    color:#aaaaaa
+}
+a:hover{
+    color:#1b00c9
+}
+li a{
+    color: #aaaaaa;
+    text-decoration: none;
+}
+
+header{
+    text-align: center;
+}
+img{
+    width:50%;
+}
+body{
+    background-color:#444444;
+    color:#ffffff;
+}
